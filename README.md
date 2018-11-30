@@ -21,11 +21,12 @@ Some example project ideas from previous classes:
 
 3. No APIs until you get approval from an instructor.  The reason is because API's oftentimes leads you to learning the specific API really well, but not learning Rails that well.  Rails is a more transferable skill.  So stick with that.
 
-4. Specs - there should be at least 10 specs in your project (five per person). 
+4. An analytics page - The main learning goal of this is to get you to write some interesting activerecord queries.
 
-5. An analytics page - The main learning goal of this is to get you to write some interesting activerecord queries.
+5. No JavaScript. Stay focused on Rails for this project - we'll have plenty of time this semeseter to cover JS topics. 
 
-6. No JavaScript. Stay focused on Rails for this project - we'll have plenty of time this semeseter to cover JS topics. 
+6. BONUS: Specs - there should be at least 10 specs in your project (five per person). 
+  * I.e. Only if everything else is done. :)
 
 ## Project Task Guidelines
 - come up with idea, model out domain. 
